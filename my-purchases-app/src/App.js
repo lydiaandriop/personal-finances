@@ -1,6 +1,6 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import PurchaseInput from "./pages/PurchaseInput";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Metrics from "./pages/Metrics";
+import PurchaseInput from "./pages/PurchaseInput";
 
 function App() {
   return (
